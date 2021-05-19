@@ -1,2 +1,2 @@
-# SentimentAnalysis
-Sentiment Analysis to classify if an email is spam or not
+# SentimentAnalysis #
+Convolutional neuronal networks and sentiment analysis to process and classify emails (spam or not)
